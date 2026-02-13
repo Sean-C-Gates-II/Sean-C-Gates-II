@@ -26,7 +26,7 @@ Consistency > Motivation.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/seangatesii) 
 
-💻 Tech Stack:
+# 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,git,github,linux,fastapi,docker,postgres,pytorch,tensorflow,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
