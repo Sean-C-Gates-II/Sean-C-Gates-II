@@ -33,9 +33,14 @@ Consistency > Motivation.
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,fastapi,linux,python,postgres,pytorch,tensorflow,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sean-c-gates-ii&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sean-c-gates-ii&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-c-gates-ii&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc)
+  
+  
+  ![](https://github-readme-stats.vercel.app/api?username=sean-c-gates-ii&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=sean-c-gates-ii&theme=shadow_blue&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-c-gates-ii&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sean-c-gates-ii&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
