@@ -23,8 +23,11 @@ My goal:
 
 Consistency > Motivation.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/seangatesii) 
+## 🌐 Connect
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/YOURUSERNAME)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sundance.exe)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/YOURUSERNAME)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,fastapi,linux,python,postgres,pytorch,tensorflow,vscode)](https://skillicons.dev)
