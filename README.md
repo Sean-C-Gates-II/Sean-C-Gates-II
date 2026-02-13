@@ -27,7 +27,7 @@ Consistency > Motivation.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/seangatesii) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,git,github,linux,fastapi,docker,postgres,pytorch,tensorflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,fastapi,linux,python,postgres,pytorch,tensorflow,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sean-c-gates-ii&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
